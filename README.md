@@ -1,7 +1,7 @@
 # Horiseon-SEO
 Backend code for Horiseon Marketing firm website
 
-This webpage is written in HTML with CSS for styling. All assets are contained within their respective folders within the 'Assets' directory.
+This webpage is written in HTML with CSS for styling. All assets are contained within their respective folders in the 'Assets' directory. The index file is contained within the root directory of the repository.
 
 ![Horiseon SEO Homepage](https://github.com/annoyingdroid/HoriseonSEO/raw/main/Screenshot.png)
 
